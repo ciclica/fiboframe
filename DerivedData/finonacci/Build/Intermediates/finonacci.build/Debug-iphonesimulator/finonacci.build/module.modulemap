@@ -1,0 +1,10 @@
+framework module finonacci {
+  umbrella header "finonacci.h"
+
+  export *
+  module * { export * }
+}
+
+module finonacci.Swift {
+    header "finonacci-Swift.h"
+}

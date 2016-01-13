@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/ciclica/Desktop/inacap/finonacci/DerivedData/finonacci/Build/Products/Debug-iphonesimulator/finonacci.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/ciclica/Desktop/inacap/finonacci/DerivedData/finonacci/Build/Intermediates/finonacci.build/Debug-iphonesimulator/finonacci.build/unextended-module.modulemap',
+    }]
+  }]
+}

@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "3aa0d062938d0bc4035545b695657902"
+inputs: 
+- "/Users/ciclica/Desktop/inacap/finonacci/finonacciTests/finonacciTests.swift"

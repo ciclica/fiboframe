@@ -1,0 +1,1 @@
+ const unsigned char finonacciTestsVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:finonacciTests  PROJECT:finonacci-1" "\n"; const double finonacciTestsVersionNumber __attribute__ ((used)) = (double)1.;
