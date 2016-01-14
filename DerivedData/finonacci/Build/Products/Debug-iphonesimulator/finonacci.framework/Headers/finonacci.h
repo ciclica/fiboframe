@@ -1,7 +1,7 @@
 //
 //  finonacci.h
 //  finonacci
-//
+//   javier ferrada
 //  Created by Ciclica on 1/4/16.
 //  Copyright (c) 2016 Ciclica. All rights reserved.
 //
